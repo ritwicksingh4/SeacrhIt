@@ -1,16 +1,24 @@
-# Goggl - The Most Unique Search Engine in the World
+# SearchIt - The best search engine
 
-![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+![SearchIt](https://i.ibb.co/yQdYhtq/image.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Introduction and Features
+- Built and Deployed an advanced Search Engine using Google Search Api. 
+- With option to get: 
+- Search, 
+- Videos, 
+- Images, 
+- News. 
+- Implemented the dark mode switch. 
 
-In this video, we will create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
+Features :
+- Advanced React Best Practices such as folder & file structure, hooks and refs
+- Created a User Interface using Material UI
+- Working with Google Search API
+- Fetching data from unlimited sources using RapidAPI
 
-By the end of this video, you will become the master of working with APIs.
+[RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
+[Google search Api](https://rapidapi.com/apigeek/api/google-search3/)
 
-Setup:
-- run ```npm i && npm start``` to start the development server
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+Setup: run ```npm i && npm start``` to start the development server
+#
