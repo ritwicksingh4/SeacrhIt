@@ -12,6 +12,9 @@
 - News. 
 - Implemented the dark mode switch. 
 
+## Deployed Link
+https://searchit.netlify.app/
+
 Features :
 - Advanced React Best Practices such as folder & file structure, hooks and refs
 - Created a User Interface using Material UI
