@@ -1,6 +1,7 @@
 # SearchIt - The best search engine
 
-![SearchIt](https://i.ibb.co/yQdYhtq/image.png)
+![SearchIt](SearchIt1.png)
+![SearchIt](SearchIt.png)
 
 ## Introduction and Features
 - Built and Deployed an advanced Search Engine using Google Search Api. 
